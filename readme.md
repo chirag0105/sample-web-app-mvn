@@ -178,3 +178,7 @@ Containers: Tomcat 9.x Remote
 9. If you go to `http://TOMCAT_IP_ADDRESS:8080//sample-web-app-mvn/` once the build is complete, you should have a working webapp. Nice job!
 
 ## Congrats!
+
+Keep in mind that when you stop your instances your machine IP addresses will change so your job will break once restarted.
+
+Also don't forget to turn off your instances when you are finished!
